@@ -218,7 +218,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 152.542376518249512, 1313.559353351593018, 155.0, 75.0 ],
-					"presentation_linecount" : 5,
 					"text" : "Exercise: one flonum will change the background color of three different number boxes: one red, one green and one blue."
 				}
 
@@ -282,7 +281,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 109.0, 1116.0, 150.0, 34.0 ],
+					"patching_rect" : [ 109.0, 1116.0, 153.0, 34.0 ],
 					"text" : "flonum (hotkey f) or float is set by adding a decimal"
 				}
 
@@ -320,7 +319,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 768.0, 940.0, 53.0, 50.0 ],
-					"presentation_linecount" : 3,
 					"text" : "foo is what I entered"
 				}
 
@@ -333,7 +331,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 622.0, 852.0, 127.0, 22.0 ],
-					"presentation_linecount" : 2,
 					"text" : "30 50 another long list"
 				}
 
@@ -418,7 +415,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 330.0, 1005.0, 50.0, 64.0 ],
+					"patching_rect" : [ 330.0, 1005.0, 53.0, 64.0 ],
 					"text" : "Front 30 50 a long list Back"
 				}
 
@@ -550,7 +547,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 84.0, 652.0, 150.0, 62.0 ],
+					"patching_rect" : [ 84.0, 652.0, 151.0, 62.0 ],
 					"text" : "Second inlet purpose: see the message right in the patcher window.\nGOOD FOR DEBUG"
 				}
 
@@ -586,7 +583,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 466.0, 511.0, 52.0, 22.0 ],
-					"presentation_linecount" : 2,
 					"text" : "$1 1 2 3"
 				}
 
@@ -646,8 +642,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 557.0, 307.0, 150.0, 117.0 ],
-					"presentation_linecount" : 8,
+					"patching_rect" : [ 557.0, 307.0, 152.0, 117.0 ],
 					"text" : "Exercise: Create a patch that allows the user to select from three choices: 30, 50 and 70. Display the results in the Max Window in the form of : \"The user selected nn\", where nn is the selected valued."
 				}
 
@@ -671,7 +666,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 424.0, 357.0, 117.0, 22.0 ],
-					"presentation_linecount" : 5,
 					"text" : "the user selected $1"
 				}
 
@@ -683,7 +677,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 146.0, 523.0, 150.0, 48.0 ],
+					"patching_rect" : [ 146.0, 523.0, 151.0, 48.0 ],
 					"text" : "This allows a mix of constants and variables to be sent along"
 				}
 
@@ -882,7 +876,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 614.0, 151.0, 150.0, 89.0 ],
+					"patching_rect" : [ 614.0, 151.0, 153.0, 89.0 ],
 					"text" : "Note: Adding a 0 (or more) effectively multiplies the identifier by powers of 10, but any other integer will cause the $ to become escaped"
 				}
 
@@ -894,7 +888,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 614.0, 38.0, 150.0, 62.0 ],
+					"patching_rect" : [ 614.0, 38.0, 151.0, 62.0 ],
 					"text" : "variables can be set in the message box as the identifier $n where n is 1 though 9"
 				}
 
@@ -954,7 +948,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 321.0, 22.0, 150.0, 48.0 ],
-					"presentation_linecount" : 3,
 					"text" : "print \"foo\" from the message object as driven by input"
 				}
 
