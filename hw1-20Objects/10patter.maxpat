@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1002.0, 85.0, 592.0, 1025.0 ],
+		"rect" : [ 134.0, 84.0, 592.0, 627.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -81,7 +81,8 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 236.0, 1832.0, 50.0, 22.0 ]
+					"patching_rect" : [ 236.0, 1832.0, 50.0, 22.0 ],
+					"varname" : "number[3]"
 				}
 
 			}
@@ -146,11 +147,13 @@
 						"number" : [ 0 ],
 						"number[1]" : [ 0 ],
 						"number[2]" : [ 0.0 ],
+						"number[3]" : [ 67 ],
+						"slider" : [ 0 ],
 						"slider[10]" : [ 92 ],
 						"slider[11]" : [ 57 ],
 						"slider[12]" : [ 67 ],
 						"slider[1]" : [ 108 ],
-						"slider[2]" : [ 46 ],
+						"slider[2]" : [ 0 ],
 						"slider[3]" : [ 16 ],
 						"slider[4]" : [ 78 ],
 						"slider[5]" : [ 124 ],
@@ -185,10 +188,10 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 71.0, 1618.0, 115.0, 22.0 ],
 					"saved_object_attributes" : 					{
-						"client_rect" : [ 100, 100, 500, 600 ],
+						"client_rect" : [ 4, 44, 358, 172 ],
 						"parameter_enable" : 0,
 						"parameter_mappable" : 0,
-						"storage_rect" : [ 200, 200, 800, 500 ]
+						"storage_rect" : [ 583, 69, 1034, 197 ]
 					}
 ,
 					"text" : "pattrstorage presets",
@@ -344,10 +347,10 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 113.0, 1253.0, 115.0, 22.0 ],
 					"saved_object_attributes" : 					{
-						"client_rect" : [ 100, 100, 500, 600 ],
+						"client_rect" : [ 4, 44, 358, 172 ],
 						"parameter_enable" : 0,
 						"parameter_mappable" : 0,
-						"storage_rect" : [ 200, 200, 800, 500 ]
+						"storage_rect" : [ 583, 69, 1034, 197 ]
 					}
 ,
 					"text" : "pattrstorage MyFive",
@@ -525,7 +528,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 407.0, 718.0, 150.0, 34.0 ],
+					"patching_rect" : [ 407.0, 718.0, 152.0, 34.0 ],
 					"text" : "These messages serve as commands"
 				}
 
@@ -611,10 +614,10 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 129.0, 815.0, 103.0, 22.0 ],
 					"saved_object_attributes" : 					{
-						"client_rect" : [ 100, 100, 500, 600 ],
+						"client_rect" : [ 4, 44, 358, 172 ],
 						"parameter_enable" : 0,
 						"parameter_mappable" : 0,
-						"storage_rect" : [ 200, 200, 800, 500 ]
+						"storage_rect" : [ 583, 69, 1034, 197 ]
 					}
 ,
 					"text" : "pattrstorage dada",
