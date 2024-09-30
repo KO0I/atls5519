@@ -1722,8 +1722,6 @@
 					"numpoints" : 512,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1836.0, 1112.0, 696.774198532104492, 345.161292791366577 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 781.818235874176025, 1386.157312303781509, 696.774198532104492, 345.161292791366577 ],
 					"rangelabel" : "Magnitude (dB)",
 					"subplots" : [ 						{
 							"color" : [ 0.400000005960464, 0.400000005960464, 0.75, 1.0 ],
@@ -1834,8 +1832,6 @@
 					"numpoints" : 256,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2336.0, 512.0, 715.533970773220062, 317.475723803043365 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 30.303032398223877, 1400.000096797943115, 715.533970773220062, 317.475723803043365 ],
 					"rangelabel" : "Magnitude (dB)",
 					"subplots" : [ 						{
 							"color" : [ 0.400000005960464, 0.400000005960464, 0.75, 1.0 ],
@@ -2547,7 +2543,7 @@
 						"live.dial[1]" : [ 0.0 ],
 						"live.dial[2]" : [ 0.0 ],
 						"live.dial[3]" : [ 0.0 ],
-						"main_gain" : [ 93 ],
+						"main_gain" : [ 0 ],
 						"oscsel1" : [ 0 ],
 						"oscsel2" : [ 0 ],
 						"oscsel3" : [ 0 ],
@@ -4059,7 +4055,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 275.0, 318.0, 336.0, 53.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 108.901762008666992, 146.597564697265625, 952.0, 136.0 ],
+					"presentation_rect" : [ 88.372089862823486, 227.848504543304443, 952.0, 136.0 ],
 					"whitekeycolor" : [ 0.92156862745098, 0.576470588235294, 0.980392156862745, 1.0 ]
 				}
 
@@ -5289,8 +5285,8 @@
 			}
 , 			{
 				"name" : "mySynth.json",
-				"bootpath" : "~/proj/atls5519/hw3-additive-synth/additive-synth-ah/other",
-				"patcherrelativepath" : "../other",
+				"bootpath" : "~/proj/atls5519/hw3-additive-synth/additive-synth-ah/data",
+				"patcherrelativepath" : "../data",
 				"type" : "JSON",
 				"implicit" : 1
 			}
