@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 77.0, 929.0, 642.0 ],
+		"rect" : [ 134.0, 134.0, 929.0, 642.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -70,7 +70,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 1189.0, 800.0, 150.0, 34.0 ],
-					"presentation_linecount" : 2,
 					"text" : "jit.matrix is the big deal -- grid of pixels"
 				}
 
@@ -118,7 +117,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 694.0, 812.0, 150.0, 34.0 ],
-					"presentation_linecount" : 2,
 					"text" : "jit.matrix is the big deal -- grid of pixels"
 				}
 
